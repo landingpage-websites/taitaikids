@@ -27,9 +27,9 @@
                     font-size: 16px;
                 }
             }
-            
-          
-           
+
+
+
         </style>
         {{-- ------header-section----- --}}
         <section class="">
@@ -47,7 +47,7 @@
                 </p>
             </div>
             <div class="height-[300px] mx-auto mt-[20px] w-[300px]">
-                <img class="h-full w-full" src="/storage/product/super-kid.png" alt="">
+                <img class="h-full w-full" src="http://combo.taitaikids.com/public/storage/product/super-kid.png" alt="">
             </div>
             <div class="mt-[20px]">
                 <p class="sm-3 text-center text-[18px] font-[600] text-[black]">
@@ -71,7 +71,7 @@
             </div>
             <div class="mt-6 grid grid-cols-2 max-md:grid-cols-1">
                 <div class="product h-[500px] border-[1px] border-[black] p-2">
-                    <img class="container h-full" src="/storage/product/baby-clothes.png" alt="">
+                    <img class="container h-full" src="http://combo.taitaikids.com/public/storage/product/baby-clothes.png" alt="">
                 </div>
                 <div class="border-[1px] border-[black] p-2">
                     <p class="mb-[2px] text-[18px] font-[500] text-[black]">
@@ -266,7 +266,7 @@
             </div>
             <div class="mt-6 grid grid-cols-2 max-md:grid-cols-1">
                 <div class="product h-[600px] border-[1px] border-[black] p-2">
-                    <img class="container h-full" src="/storage/product/baby-clothes2.png" alt="">
+                    <img class="container h-full" src="http://combo.taitaikids.com/public/storage/product/baby-clothes2.png" alt="">
                 </div>
                 <div class="border-[1px] border-[black] p-2">
                     <p class="mb-[2px] text-[18px] font-[500] text-[black]">
@@ -309,7 +309,7 @@
                     যারা আমাদের থেকে নিয়েছেন তাদের মন্তব্য
                 </h2>
             </div>
-            <div><img class="mx-auto" src="/storage/product/baby-clothes3.png" alt=""></div>
+            <div><img class="mx-auto" src="http://combo.taitaikids.com/public/storage/product/baby-clothes3.png" alt=""></div>
             <div class="flex flex-col">
                 <span class="my-[10px] text-center text-[25px] font-[600] text-[black]">ডেলিভারি চার্জ সম্পূর্ণ </span>
                 <span class="text-center text-[20px] font-[500] text-[#935E5Ek]">(সীমিত সময়ের জন্য)</span>
